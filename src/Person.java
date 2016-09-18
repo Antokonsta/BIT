@@ -1,6 +1,3 @@
-/**
- * Created by Anton on 18.09.16.
- */
 public class Person {
 
     private final boolean man;

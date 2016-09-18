@@ -1,6 +1,4 @@
-/**
- * Created by Anton on 18.09.16.
- */
+
 public class Main {
     public static void main(String[] args) {
         Person john = new Person(true, "John");
