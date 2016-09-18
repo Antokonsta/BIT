@@ -1,5 +1,5 @@
 
-public class Main { //Главное
+public class Main { //Main
     public static void main(String[] args) {
         Person john = new Person(true, "John");
         Person helly = new Person(false, "Helly");

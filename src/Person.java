@@ -1,4 +1,4 @@
-public class Person { //Person
+public class Person { //Person-
 
     private final boolean man;
     private final String name;
